@@ -1,0 +1,5 @@
+# Ignore SCSS files
+*.scss
+
+# Ignore compiled CSS files (if generated)
+*.css
